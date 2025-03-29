@@ -1,0 +1,19 @@
+{
+  "name": "data-structures-and-algorithms",
+  "description": "",
+  "version": "0.0.1",
+  "scripts": {
+    "run-file": "npx ts-node"
+  },
+  "notes": {
+    "run-file": "To run a TypeScript file directly. Use: npm run run-file -- <path-to-file>"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.14",
+    "ts-node": "10.9.2",
+    "typescript": "5.8.2"
+  },
+  "author": "Carlos Guerra",
+  "keywords": [],
+  "license": "MIT"
+}
